@@ -1,4 +1,4 @@
-## Insektenscanner
+## Insektenscounter
 Ziel dieses Projekts ist die Entwicklung eines Geräts zur Erkennung und Zählung verschiedener Insektenarten.
 Damit soll es dann Möglich sein, die Artenvielfalt und deren Veränderung engmaschig und lokal Erfassen zu können. Zusammen mit anderen Umweltdaten kann so eine Karte erstellt werden. Auch kann so die Ausbreitung invasiver Arten erfasst und verfolgt werden.
 
